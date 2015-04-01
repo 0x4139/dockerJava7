@@ -1,6 +1,6 @@
-# Debian Java7 docker image
+# Ubuntu Java7 docker image
 
-Oracle java7 jre u76 in a docker container based on the lightweight debian image
+Oracle java7 jre u76 in a docker container based on the lightweight ubuntu image
 
 ## Usage
 
